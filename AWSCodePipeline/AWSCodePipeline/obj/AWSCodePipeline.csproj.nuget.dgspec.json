@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\DevOps-Projects\\ASP.NET-AWS\\AWSCodePipeline\\AWSCodePipeline\\AWSCodePipeline.csproj": {}
+    "E:\\Projects\\AWS-codepipeline-dotnet\\AWSCodePipeline\\AWSCodePipeline\\AWSCodePipeline.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\DevOps-Projects\\ASP.NET-AWS\\AWSCodePipeline\\AWSCodePipeline\\AWSCodePipeline.csproj": {
+    "E:\\Projects\\AWS-codepipeline-dotnet\\AWSCodePipeline\\AWSCodePipeline\\AWSCodePipeline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\DevOps-Projects\\ASP.NET-AWS\\AWSCodePipeline\\AWSCodePipeline\\AWSCodePipeline.csproj",
+        "projectUniqueName": "E:\\Projects\\AWS-codepipeline-dotnet\\AWSCodePipeline\\AWSCodePipeline\\AWSCodePipeline.csproj",
         "projectName": "AWSCodePipeline",
-        "projectPath": "E:\\Projects\\DevOps-Projects\\ASP.NET-AWS\\AWSCodePipeline\\AWSCodePipeline\\AWSCodePipeline.csproj",
+        "projectPath": "E:\\Projects\\AWS-codepipeline-dotnet\\AWSCodePipeline\\AWSCodePipeline\\AWSCodePipeline.csproj",
         "packagesPath": "C:\\Users\\Ella\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\DevOps-Projects\\ASP.NET-AWS\\AWSCodePipeline\\AWSCodePipeline\\obj\\",
+        "outputPath": "E:\\Projects\\AWS-codepipeline-dotnet\\AWSCodePipeline\\AWSCodePipeline\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
