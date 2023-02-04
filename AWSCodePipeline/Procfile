@@ -1,1 +1,1 @@
-web: dotnet ./app/AWSCodePipeline.dll
+web: dotnet exec ./app/AWSCodePipeline.dll 
