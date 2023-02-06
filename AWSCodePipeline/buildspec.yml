@@ -16,10 +16,10 @@ phases:
   post_build:
     commands:
       #here we can choose to also run some tests in our case we are publishing the application to the app folder of the root directory
-      - dotnet publish -c Release -o  ./build_output ./app/ AWSCodePipeline/AWSCodePipeline/AWSCodePipeline.csproj --self-contained false
-      - cp Procfile ./build_output
+      - dotnet publish -c Release -o   ./app/ AWSCodePipeline/AWSCodePipeline/AWSCodePipeline.csproj 
+      - cp Procfile ./app
 artifacts:
   files:
     - '**/*'
-  base-directory: ./build_output
-  discard-paths: no
+
+  
