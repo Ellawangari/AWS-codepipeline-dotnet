@@ -17,7 +17,7 @@ phases:
     commands:
       #here we can choose to also run some tests in our case we are publishing the application to the app folder of the root directory
       - dotnet publish -c Release -o   ./app/ AWSCodePipeline/AWSCodePipeline/AWSCodePipeline.csproj 
-      - cp Procfile ./app
+      - cp ./AWSCodePipeline/Procfile ./app
 artifacts:
   files:
     - '**/*'
